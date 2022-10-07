@@ -1,6 +1,6 @@
 import { User } from '../models/users.js';
 import { sendMail } from '../utils/sendMail.js'
-import { sendToken } from '../utils/sendtoken.js'
+import { sendToken } from '../utils/sendToken.js'
 import cloudinary from 'cloudinary'
 import fs from 'fs'
 
